@@ -1,6 +1,6 @@
-package com.mindorks.bootcamp.instagram.utils.log
+package com.immran.showcase.utils.log
 
-import com.mindorks.bootcamp.instagram.BuildConfig
+import com.immran.showcase.BuildConfig
 import timber.log.Timber
 
 object Logger {
